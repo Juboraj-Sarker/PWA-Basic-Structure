@@ -1,0 +1,22 @@
+{
+  "name": "CityGroup",
+  "version": "1.0.0",
+  "description": "This is a test project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Maximilian SchwarzmÃ¼ller",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
